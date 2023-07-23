@@ -8,13 +8,13 @@
 
 
 ;; -------------------------------------------------------------------------
-;; ***** =portfolio Layout starts *****
+;; ***** portfolio Layout starts *****
 ;; -------------------------------------------------------------------------
 
 -- layout.base-layout:
 
 ;; ----------------------------------------------------------------
-;; ***** =portfolio Header starts *****
+;; ***** portfolio Header starts *****
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
@@ -24,7 +24,7 @@ header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /portfolio/home
+header-item1-link: /portfolio
 header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
@@ -32,32 +32,32 @@ cta-item2: Resume
 cta-item2-link: /portfolio/resume
 
 ;; ----------------------------------------------------------------
-;; ***** =portfolio Header ends *****
+;; ***** portfolio Header ends *****
 ;; ----------------------------------------------------------------
 
 
 ;; -----------------------------------------------------
-;; ***** =portfolio Toast starts *****
+;; ***** portfolio Toast starts *****
 ;; -----------------------------------------------------
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/Ambar2906
+link: https://github.com/Gauravjha68535
 
 ;; -----------------------------------------------------
-;; ***** =portfolio Toast ends *****
+;; ***** portfolio Toast ends *****
 ;; -----------------------------------------------------
 
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI starts *****
+;; ***** portfolio Hero UI starts *****
 ;; ------------------------------------------
 
 -- ftd.container:
 padding-bottom.px: 20
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI Mobile view starts *****
+;; ***** portfolio Hero UI Mobile view starts *****
 ;; ------------------------------------------
 
 -- ftd.mobile:
@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Ambar
+secondTitle: YOUR_NAME,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:jhaambarbharat@gmail.com
+link: mailto:gauravjha68535@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -109,36 +109,36 @@ isNewTab: true
 
 
 ;; --------------------------------
-;; ***** =portfolio Socials starts *****
+;; ***** portfolio Socials starts *****
 ;; --------------------------------
 
 -- ftd.row:
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/ambar-jha-b025b0189/
+link: https://linkedin.com/in/ijhagaurav
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/ijhagaurav
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/Ambar2906
+link: https://github.com/Gauravjha68535
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/ijhagaurav
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:Gauravjha68535@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** =portfolio Socials ends *****
+;; ***** portfolio Socials ends *****
 ;; --------------------------------
 
 -- end: ftd.column
@@ -148,7 +148,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.mobile
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI Mobile view ends *****
+;; ***** portfolio Hero UI Mobile view ends *****
 ;; ------------------------------------------
 
 ;; ----------------------------------------------------------------
@@ -156,7 +156,7 @@ image: $assets.files.images.mail.png
 
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI Desktop view starts *****
+;; ***** portfolio Hero UI Desktop view starts *****
 ;; ------------------------------------------
 
 -- ftd.desktop:
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:jhaambarbharat@gmail.com
+link: mailto:gauravjha68535@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -200,26 +200,26 @@ isNewTab: true
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** =portfolio Socials starts *****
+;; ***** portfolio Socials starts *****
 ;; --------------------------------
 
 -- ftd.row:
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/ijhagaurav
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/ijhagaurav
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Gauravjha68535
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/ijhagaurav
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
@@ -229,7 +229,7 @@ image: $assets.files.images.mail.png
 -- end: ftd.row
 
 ;; --------------------------------
-;; ***** =portfolio Socials ends *****
+;; ***** portfolio Socials ends *****
 ;; --------------------------------
 
 -- end: ftd.column
@@ -243,17 +243,17 @@ width.fixed.px: 400
 -- end: ftd.desktop
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI Desktop view ends *****
+;; ***** portfolio Hero UI Desktop view ends *****
 ;; ------------------------------------------
 
 -- end: ftd.container
 
 ;; ------------------------------------------
-;; ***** =portfolio Hero UI ends *****
+;; ***** portfolio Hero UI ends *****
 ;; ------------------------------------------
 
 -- end: layout.base-layout
 
 ;; -------------------------------------------------------------------------
-;; ***** =portfolio Layout ends *****
+;; ***** portfolio Layout ends *****
 ;; -------------------------------------------------------------------------
